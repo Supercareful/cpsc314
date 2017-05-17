@@ -1,1 +1,1 @@
-# cpsc314
+# Work done in computer graphics course
